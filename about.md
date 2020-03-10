@@ -25,9 +25,7 @@ titles: About Me
   # @end locale config
 key: page-about
 ---
-
 ## 关于我
-
 ### 硕士
 爱丁堡大学 计算机系
 
